@@ -19,7 +19,7 @@ public class Email {
 		
 		this.firstname = "John";
 		this.lastname = "Doe";
-		this.department = "Sale";
+		this.department = "solor proper";
 		this.password = "abc123456";
 		this.email = "john.doe@sales.duotech.io";
 		this.alternateEmail = "john.doe@gmail.com";
